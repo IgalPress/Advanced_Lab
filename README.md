@@ -1,1 +1,1 @@
-# There are several branches which describe the different labs and homework assignments.
+# There are several branches which describe the different labs and simulations.
